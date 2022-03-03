@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Generic Electric Cost Calculation</string>
+    <string name="enter_service_number">Enter Service Number</string>
+    <string name="enter_units_consumed">Enter Units Consumed</string>
+    <string name="result">Result</string>
+    <string name="calculate">Calculate</string>
+</resources>
